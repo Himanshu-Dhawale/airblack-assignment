@@ -23,5 +23,5 @@ select{
 }
 
 .second-image{
-    background-image: url("src\assets\SecondImage.png");
+    background-image: url("./SecondImage.png");
 }

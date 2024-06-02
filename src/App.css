@@ -1,0 +1,19 @@
+.apply-btn{
+    background: linear-gradient(90.32deg, #F56563 0%, #E54988 100%);
+    color: white;
+    border-radius: 4px;
+    position: absolute;
+    bottom: 29px;
+}
+
+select{
+    outline:none;
+    color: gray!important;
+}
+
+.submit-btn{
+    background: linear-gradient(90.32deg, #F56563 0%, #E54988 100%);
+    color: white;
+    border-radius: 4px;
+    height: 36px;
+}

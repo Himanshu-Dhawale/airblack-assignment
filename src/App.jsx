@@ -5,7 +5,7 @@ function App() {
   
 
   return (
-    <div className='w-[375px] h-[1839.34px] relative  gap-0 bg-slate-600 md:w-auto'>
+    <div className='relative  gap-0 bg-slate-600 w-full'>
       <LandingPage/>
     </div>
   )

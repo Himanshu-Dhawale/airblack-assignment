@@ -132,7 +132,7 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
-      <div className=" bg-[url('SecondImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative second-image">
+      <div className=" min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative second-image">
         <div className="w-[327px] h-[60px] flex items-center gap-[25px] text-center absolute top-[20%] left-1/2 transform -translate-x-1/2 -translate-y-1/2">
           <img
             src="gradient-1.png"

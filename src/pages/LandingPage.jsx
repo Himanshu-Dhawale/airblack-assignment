@@ -132,10 +132,10 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
-      <div className=" bg-[url('src/assets/SecondImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative">
+      <div className=" bg-[url('SecondImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative">
         <div className="w-[327px] h-[60px] flex items-center gap-[25px] text-center absolute top-[20%] left-1/2 transform -translate-x-1/2 -translate-y-1/2">
           <img
-            src="src/assets/gradient-1.png"
+            src="gradient-1.png"
             alt="gradient-vector"
             className="w-[44.5px] h-[5.62px]"
           />
@@ -143,7 +143,7 @@ const LandingPage = () => {
             Why Should You Join Airblack?
           </h1>
           <img
-            src="src/assets/gradient-2.png"
+            src="gradient-2.png"
             alt="gradient-vector"
             className="w-[44.5px] h-[5.62px]"
           />
@@ -193,7 +193,7 @@ const LandingPage = () => {
      </div>
     <img src="certification.png" alt="Certification" className='w-[361px] h-[252px]'/>
    </div>
-   <div className=" bg-[url('src/assets/FooterImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative">
+   <div className=" bg-[url('FooterImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative">
        <h1 className=" text-white font-normal text-2xl text-center leading-[30px]">Join our growing 
 community of 
 35,000+ alumni</h1>

@@ -17,3 +17,11 @@ select{
     border-radius: 4px;
     height: 36px;
 }
+
+.footer{
+    background-image: url("src\assets\FooterImage.png");
+}
+
+.second-image{
+    background-image: url("public\SecondImage.png");
+}

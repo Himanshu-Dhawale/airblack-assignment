@@ -1,5 +1,5 @@
 import React from "react";
-
+import FooterImage from "../assets/FooterImage.png";
 
 const LandingPage = () => {
   return (
@@ -132,7 +132,7 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
-      <div className=" bg-[url('SecondImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative">
+      <div className=" bg-[url('SecondImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative second-image">
         <div className="w-[327px] h-[60px] flex items-center gap-[25px] text-center absolute top-[20%] left-1/2 transform -translate-x-1/2 -translate-y-1/2">
           <img
             src="gradient-1.png"
@@ -193,7 +193,7 @@ const LandingPage = () => {
      </div>
     <img src="certification.png" alt="Certification" className='w-[361px] h-[252px]'/>
    </div>
-   <div className=" bg-[url('FooterImage.png')] min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative">
+   <div className=" min-h-[296.14px] pt-[30px] pr-[24px] pb-[30px] pl-[24px] flex flex-col items-center bg-[#050505] relative footer" style={{ backgroundImage: `url(${FooterImage})` }}>
        <h1 className=" text-white font-normal text-2xl text-center leading-[30px]">Join our growing 
 community of 
 35,000+ alumni</h1>
